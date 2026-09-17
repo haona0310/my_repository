@@ -1,2 +1,4 @@
 nd moi 
 day la nd dc tao tu file moi tren github 
+
+toi da sua branch nay tu local
